@@ -10,6 +10,6 @@
 |------------|------------|
 | ![empty](asset/empty.png) _No Items Added yet_ | ![addeditems](asset/addedItems.png) _Items Added_ |
 | ![emovelastItem](asset/removelastItem.png) _removed last Item_| ![addingExistingItem](asset/addingExistingItem.png) _Trying to add Existing Item_ |
-| ![BeforeDeleteingApple](asset/BeforeDeleteingApple.png) _Before Deleteing Apple_ | ![AfterDeletingApple](asset/AfterDeletingApple.png) _After Deleting Apple_ |
+| ![BeforeDeleteingApple](asset/BeforeDeleteingApple.png) _Before Deleteing "Apple" from the list_ | ![AfterDeletingApple](asset/AfterDeletingApple.png) _After Deleting "Apple" from the list_ |
 
 # Thank you
