@@ -4,6 +4,8 @@
 
 [Video of the application](asset/video.webm)
 
-| **Screenshots**  | **Screenshots Contd**
+| **Screenshots**  | **Screenshots Contd**|
 
-| ![empty](asset/empty.png) | ![addeditems](asset/addedItems.png)
+|------------|------------|
+
+| ![empty](asset/empty.png) | ![addeditems](asset/addedItems.png)|
